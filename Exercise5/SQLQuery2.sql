@@ -1,0 +1,1 @@
+﻿SELECT * FROM trip.Client_Trip;
